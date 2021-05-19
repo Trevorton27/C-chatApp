@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-nhibernate.cfg",
+      "appliesTo": "Core/nhibernate.cfg.xml",
+      "type": "launch"
+    }
+  ]
+}

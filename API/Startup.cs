@@ -31,6 +31,7 @@ namespace API
             {
                 Configuration.RootPath = "client/build";
             });
+            services.AddHibernate();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

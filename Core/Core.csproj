@@ -4,4 +4,9 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NHibernate" Version="5.3.8" />
+    <PackageReference Include="Npgsql" Version="6.0.0-preview3" />
+  </ItemGroup>
+
 </Project>
