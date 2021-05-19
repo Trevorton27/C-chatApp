@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\API\\client",
+    "\\API\\client\\src",
+    "\\API\\Controllers"
   ],
   "SelectedNode": "\\ChatAppC#.sln",
   "PreviewInSolutionExplorer": false
